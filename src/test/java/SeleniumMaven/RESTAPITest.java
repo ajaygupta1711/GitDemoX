@@ -10,6 +10,11 @@ public class RESTAPITest {
 		System.out.println("RESTAPITest");
 		System.out.println("RESTAPITest1");
 		System.out.println("RESTAPITest2");
+		
+		System.out.println("RESTAPITest3");
+		System.out.println("RESTAPITest4");
+		System.out.println("RESTAPITest5");
+
 	}
 	
 }
