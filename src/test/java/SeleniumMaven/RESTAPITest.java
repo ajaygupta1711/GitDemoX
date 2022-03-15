@@ -8,6 +8,8 @@ public class RESTAPITest {
 	public void restapiTest() 
 	{
 		System.out.println("RESTAPITest");
+		System.out.println("RESTAPITest1");
+		System.out.println("RESTAPITest2");
 	}
 	
 }
